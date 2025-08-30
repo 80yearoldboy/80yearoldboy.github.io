@@ -152,11 +152,11 @@ export const themeConfig = {
           name: "主站",
           url: "/",
         },
-        /*{
+        {
           icon: "/images/logo/logo.webp",
           name: "博客镜像站",
           url: "https://blog-backup.imsyy.top/",
-        },*/
+        },
       ],
     },
     {
@@ -398,13 +398,13 @@ export const themeConfig = {
     apiKey: "",
   },
   // 打赏
-  /*rewardData: {
+  rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
-  },*/
+    alipay: "",
+  },
   // 图片灯箱
   fancybox: {
     enable: true,
