@@ -17,7 +17,7 @@
         <span class="title2"><a hraf="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ</a></span>
         <span class="title2">有没有发现什么规律？</span>
         <span class="title2">以上排名不分先后。</span>
-        <span class="title2">致歉：本来还有DZG大佬的，但我找不到他了···</span>
+        <span class="text3">致歉：本来还有DZG大佬的，但我找不到他了···</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -167,7 +167,7 @@
         <span class="tip">心路历程</span>
         <span class="title2">为什么建站？</span>
         <p class="text">
-          创建这个站的时候，想要就是能够有一个自己能够<strong>分享感受</strong>、<strong>积累经验</strong>的地方。和他人分享，会让这些成为<strong>向上的阶梯</strong>。如果能够让更多的人感到快乐，帮助更多人解决问题，那一定是非常棒的事情。
+          创建这个站的时候，想要就是能够有一个自己能够<strong>分享感受</strong>、<strong>积累经验</strong>的地方。和他人分享，会让这些成为<strong>人生中的小确幸</strong>。如果能够让更多的人感到快乐，帮助更多人解决问题，那一定是非常棒的事情。
         </p>
         <p class="text">
           这里大多都是<strong>个人记录</strong>的文章，可能不太会有很多人看，权当是做个消遣吧。当然，如果某篇文章能够让你开心，那我也是很乐意的。
