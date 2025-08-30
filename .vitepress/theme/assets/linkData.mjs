@@ -6,7 +6,7 @@ const linkData = [
     typeName: "推荐",
     typeDesc: "都是大佬，推荐关注",
     typeList: [
-      /*{
+      {
         name: "阮一峰",
         avatar: "https://pic.efefee.cn/uploads/2024/02/26/65dc5fb729cdb.webp",
         desc: "阮老师，知名博主，大佬中的大佬",
@@ -41,7 +41,7 @@ const linkData = [
         avatar: "https://pic.efefee.cn/uploads/2024/03/14/65f2c2bb8c17c.gif",
         desc: "写代码是热爱，写到世界充满爱！",
         url: "https://diygod.cc/",
-      },*/
+      },
     ],
   },
   // 小伙伴们
