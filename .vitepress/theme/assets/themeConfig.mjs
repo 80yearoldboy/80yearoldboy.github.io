@@ -342,7 +342,7 @@ export const themeConfig = {
     // 站点简介
     hello: {
       enable: true,
-      text: "这里有关于<strong>OI</strong>相关的问题和看法，也会有一些<strong>奇技淫巧</strong>的分享，其中大部分内容会侧重于<strong>文化课和摸鱼吐槽</strong>。希望你可以在这里找到对你有用的知识和教程。",
+      text: "这里有关于<strong>OI</strong>相关的问题和看法，也会有一些<strong>生活经验</strong>的分享，其中大部分内容会侧重于<strong>文化课和摸鱼吐槽</strong>。希望你可以在这里找到对你有用东西。",
     },
     // 目录
     toc: {
