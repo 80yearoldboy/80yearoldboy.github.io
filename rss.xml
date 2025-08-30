@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sunnyboy的快乐老家</title>
+        <link>https://80yearoldboy.github.io</link>
+        <description>Able was I ere I saw OI.</description>
+        <lastBuildDate>Sat, 30 Aug 2025 12:57:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Sunnyboy</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present Sunnyboy</copyright>
+        <item>
+            <title><![CDATA[欢迎使用 Curve]]></title>
+            <link>https://80yearoldboy.github.io/posts/2024/1010</link>
+            <guid>https://80yearoldboy.github.io/posts/2024/1010</guid>
+            <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[欢迎使用 Curve 主题，这是你的第一篇文章]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+    </channel>
+</rss>
