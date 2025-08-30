@@ -182,7 +182,7 @@ export const themeConfig = {
     {
       name: "项目",
       list: [
-        /*{
+        {
           icon: "/images/logo/logo.webp",
           name: "Curve",
           url: "https://github.com/imsyy/vitepress-theme-curve",
@@ -196,13 +196,13 @@ export const themeConfig = {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
           name: "Snavigation",
           url: "https://github.com/imsyy/SPlayer",
-        },*/
+        },
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
           url: "https://github.com/imsyy/home",
         },
-        /*{
+        {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
           name: "DailyHotApi",
           url: "https://github.com/imsyy/DailyHotApi",
@@ -211,7 +211,7 @@ export const themeConfig = {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
           name: "site-status",
           url: "https://github.com/imsyy/site-status",
-        },*/
+        },
       ],
     },
   ],
@@ -244,11 +244,11 @@ export const themeConfig = {
       {
         icon: "github",
         link: "https://www.github.com/80yaeroldboy/",
-      /*},
+      },
       {
         icon: "telegram",
         link: "https://t.me/bottom_user",
-      },*/
+      },
       {
         icon: "bilibili",
         link: "https://space.bilibili.com/1387822934",
@@ -257,10 +257,10 @@ export const themeConfig = {
         icon: "qq",
         link: "https://res.abeim.cn/api/qq/?qq=447376177",
       },
-      /*{
+      {
         icon: "twitter-x",
         link: "https://twitter.com/iimmsyy",
-      },*/
+      },
     ],
     // sitemap
     sitemap: [
