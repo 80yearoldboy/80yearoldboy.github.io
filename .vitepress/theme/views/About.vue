@@ -68,7 +68,7 @@
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
           了解更多关于
-          <a href="https://www.16personalities.com/ch/istj-%E4%BA%BA%E6%A0%BC" target="_blank">
+          <a href="https://www.16personalities.com/ch/entj-%E4%BA%BA%E6%A0%BC" target="_blank">
             指挥官
           </a>
         </span>
