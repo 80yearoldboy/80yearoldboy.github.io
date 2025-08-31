@@ -3,12 +3,12 @@
     <Banner
       type="page"
       title="我的项目"
-      desc="源于热爱开发优秀的作品"
-      footer="写 BUG 小能手"
+      desc="想起来就干一干"
+      footer="修 BUG 小能手"
       image="https://pic.efefee.cn/uploads/2024/02/27/65dd8dae6043c.webp"
     >
       <template #footer-slot>
-        <a class="to-github" href="https://github.com/imsyy/" target="_blank">
+        <a class="to-github" href="https://github.com/80yearoldboy/" target="_blank">
           <i class="iconfont icon-github"></i>
           <span>前往 Github</span>
         </a>
