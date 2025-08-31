@@ -7,7 +7,7 @@ export const themeConfig = {
     // 站点描述
     description: "Able was I ere I saw OI.",
     // 站点logo
-    logo: "/images/logo/logo.webp",
+    logo: "/images/logo/logo.png",
     // 站点地址
     site: "https://80yearoldboy.github.io",
     // 语言
