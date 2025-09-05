@@ -3,7 +3,11 @@
   font-display: swap;
   src: url("/fonts/title.ttf");
 }
-
+@font-face {
+  font-family: "digit";
+  font-display: swap;
+  src: url("/fonts/digit.ttf");
+}
 html,
 body,
 #app {
