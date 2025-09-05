@@ -20,13 +20,13 @@ export const mainStore = defineStore("main", {
         direction: "down",
       },
       // 页脚可见性
-      footerIsShow: false,
+      footerIsShow: true,
       // 中控台显示
       controlShow: false,
       // 搜索框显示
-      searchShow: false,
+      searchShow: true,
       // 个性化配置显示
-      showSeetings: false,
+      showSeetings: true,
       // 播放器数据
       playState: false,
       playerShow: true,
@@ -36,13 +36,13 @@ export const mainStore = defineStore("main", {
         artist: "未知艺术家",
       },
       // 移动端菜单显示
-      mobileMenuShow: false,
+      mobileMenuShow: true,
       // 使用自定义右键菜单
-      useRightMenu: true,
+      useRightMenu: false,
       // 背景模糊
       backgroundBlur: false,
       // 全站字体
-      fontFamily: xs,
+      fontFamily: "xs",
       // 全站字体大小
       fontSize: 16,
       // 信息显示位置
