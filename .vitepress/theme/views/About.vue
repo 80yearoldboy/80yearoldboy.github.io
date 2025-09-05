@@ -10,13 +10,12 @@
       </div>
       <!-- 朋友 -->
       <div class="about-item pursuit">
-        <span class="tip">我的朋友们</span>
-        <span class="title2"><a hraf="https://www.luogu.com.cn/user/1053148">CRZ_AK_DZG</a></span>
-        <span class="title2"><a hraf="https://www.luogu.com.cn/user/1081510">LZC_AK_CRZ</a>（大佬！大佬！）</span>
-        <span class="title2"><a hraf="https://www.luogu.com.cn/user/961104">yoyo0317</a></span>
-        <span class="title2"><a hraf="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ</a></span>
-        <span class="title2">有没有发现什么规律？</span>
-        <span class="title2">以上排名不分先后。</span>
+        <span class="tip">大佬们</span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1081510">LZC_AK_CRZ</a>（伟大无需多言！）</span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/961104">yoyo0317（%%%）</a></span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ（ctrl C+ctrl V大佬）</a></span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1342346">hzh0618（掉分大佬···）</a></span>
+        <span class="title2">注：以上排名不分先后。</span>
         <span class="text3">致歉：本来还有DZG大佬的，但我找不到他了···</span>
       </div>
     </div>
@@ -45,7 +44,7 @@
       <div class="about-item career">
         <span class="tip">生涯</span>
         <span class="title2">
-          <i>無限進步</i>
+          <i>无限失败</i>
         </span>
         <div class="list">
           <span class="list-item" style="--color: #357ef5">在看见OI之前，我所向无敌。</span>
