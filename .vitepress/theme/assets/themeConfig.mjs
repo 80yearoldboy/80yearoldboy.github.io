@@ -243,7 +243,7 @@ export const themeConfig = {
       },
       {
         icon: "github",
-        link: "https://www.github.com/80yaeroldboy/",
+        link: "https://www.github.com/80yearoldboy/",
       },
       {
         icon: "telegram",
