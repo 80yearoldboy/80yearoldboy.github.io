@@ -15,7 +15,7 @@ export const themeConfig = {
     // 作者
     author: {
       name: "Sunnyboy",
-      cover: "/images/logo/logo.webp",
+      cover: "/images/logo/logo.png",
       email: "447376177@qq.com",
       link: "https://80yearoldboy.github.io",
     },
@@ -237,30 +237,30 @@ export const themeConfig = {
   footer: {
     // 社交链接（请确保为偶数个）
     social: [
-      {
+      /*{
         icon: "email",
         link: "447376177@qq.com",
-      },
+      },*/
       {
         icon: "github",
         link: "https://www.github.com/80yearoldboy/",
       },
-      {
+      /*{
         icon: "telegram",
         link: "https://t.me/bottom_user",
-      },
+      },*/
       {
         icon: "bilibili",
         link: "https://space.bilibili.com/1387822934",
       },
-      {
+      /*{
         icon: "qq",
         link: "https://res.abeim.cn/api/qq/?qq=447376177",
       },
       {
         icon: "twitter-x",
         link: "https://twitter.com/iimmsyy",
-      },
+      },*/
     ],
     // sitemap
     sitemap: [
