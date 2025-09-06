@@ -12,9 +12,9 @@
       <div class="about-item pursuit">
         <span class="tip">大佬们</span>
         <span class="title2"><a href="https://www.luogu.com.cn/user/1081510">LZC_AK_CRZ</a>（伟大无需多言！）</span>
-        <span class="title2"><a href="https://www.luogu.com.cn/user/961104">yoyo0317（%%%）</a></span>
-        <span class="title2"><a href="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ（ctrl C+ctrl V大佬）</a></span>
-        <span class="title2"><a href="https://www.luogu.com.cn/user/1342346">hzh0618（掉分大佬···）</a></span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/961104">yoyo0317</a>（%%%）</span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ</a>（ctrl C+ctrl V大佬）</span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1342346">hzh0618</a>（掉分大佬···）</span>
         <span class="title2">注：以上排名不分先后。</span>
         <span class="text3">致歉：本来还有DZG大佬的，但我找不到他了···</span>
       </div>
@@ -62,7 +62,7 @@
       <div class="about-item character" style="--color: #4298b4">
         <span class="tip">性格</span>
         <span class="title2">指挥官</span>
-        <span class="title2" style="color: var(--color)">ENTJ</span>
+        <span class="title2" style="color: var(--color)">ENTJ-A/ENTJ-T</span>
         <span class="more">
           在
           <a href="https://www.16personalities.com/ch/" target="_blank">16personalities</a>
