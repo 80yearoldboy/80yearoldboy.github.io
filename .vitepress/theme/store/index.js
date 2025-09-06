@@ -38,7 +38,7 @@ export const mainStore = defineStore("main", {
       // 移动端菜单显示
       mobileMenuShow: true,
       // 使用自定义右键菜单
-      useRightMenu: false,
+      useRightMenu: true,
       // 背景模糊
       backgroundBlur: false,
       // 全站字体
