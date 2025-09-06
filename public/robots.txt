@@ -3,4 +3,4 @@ Allow: /
 Allow: /pages/
 Allow: /posts/
 
-Sitemap: https://blog.imsyy.top/sitemap.xml
+Sitemap: https://80yearoldboy.github.io/sitemap.xml
