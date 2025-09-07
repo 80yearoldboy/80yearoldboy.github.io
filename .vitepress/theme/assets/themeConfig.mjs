@@ -182,7 +182,7 @@ export const themeConfig = {
     {
       name: "项目",
       list: [
-        {
+        /*{
           icon: "/images/logo/logo.webp",
           name: "Curve",
           url: "https://github.com/imsyy/vitepress-theme-curve",
@@ -211,7 +211,7 @@ export const themeConfig = {
           icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
           name: "site-status",
           url: "https://github.com/imsyy/site-status",
-        },
+        },*/
       ],
     },
   ],
@@ -276,10 +276,10 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
+          /*{ text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
           { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
           { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },*/
         ],
       },
       {
