@@ -227,9 +227,9 @@ export const themeConfig = {
       coverLayout: 'both',
       // 默认封面(随机展示)
       defaultCover: [
-        'https://example.com/1.avif',
-        'https://example.com/2.avif',
-        'https://example.com/3.avif'
+        'https://img.cdn1.vip/i/68c5586cdddde_1757763692.webp',
+        'https://img.cdn1.vip/i/68c5592a33df8_1757763882.webp',
+        'https://img.cdn1.vip/i/68c5596000926_1757763936.webp'
       ]
     }
   },
@@ -358,7 +358,9 @@ export const themeConfig = {
       // 倒计时日期
       data: {
         name: "春节",
-        date: "2025-01-29",
+        date: "2026-01-29",
+        name: "国庆",
+        date: "2025-10-01",
       },
     },
     // 站点数据
