@@ -15,8 +15,8 @@
         <span class="title2"><a href="https://www.luogu.com.cn/user/961104">yoyo0317</a>（%%%）</span>
         <span class="title2"><a href="https://www.luogu.com.cn/user/1210378">CHZ_AK_CRZ</a>（ctrl C+ctrl V大佬）</span>
         <span class="title2"><a href="https://www.luogu.com.cn/user/1342346">hzh0618</a>（掉分大佬···）</span>
+        <span class="title2"><a href="https://www.luogu.com.cn/user/1064642">user782_akcrz</a>（怎么感觉退居二线了···）</span>
         <span class="title2">注：以上排名不分先后。</span>
-        <span class="text3">致歉：本来还有DZG大佬的，但我找不到他了···</span>
       </div>
     </div>
     <div class="about-content" style="grid-template-columns: 2fr 3fr">
@@ -44,7 +44,7 @@
       <div class="about-item career">
         <span class="tip">生涯</span>
         <span class="title2">
-          <i>无限失败</i>
+          <i>无限踏步</i>
         </span>
         <div class="list">
           <span class="list-item" style="--color: #357ef5">在看见OI之前，我所向无敌。</span>
