@@ -30,6 +30,12 @@
             >
               霞鹜文楷
             </span>
+            <span
+              :class="['options', { choose: fontFamily === 'xs' }]"
+              @click="fontFamily = 'xs'"
+            >
+              点素字体
+            </span>
           </div>
         </div>
         <div class="set-item">
