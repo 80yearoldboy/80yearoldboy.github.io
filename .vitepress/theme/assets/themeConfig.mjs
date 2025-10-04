@@ -37,7 +37,7 @@ export const themeConfig = {
         "meta",
         {
           name:"msvalidate.01",
-          content:"BFEB5BF33AB4DC1743274D9CE1DCCCFD"
+          content:"BFEB5BF33AB4DC1743274D9CE1DCCCFD",
         },
       ],
       // RSS
