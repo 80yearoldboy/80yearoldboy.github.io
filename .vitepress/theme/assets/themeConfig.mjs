@@ -33,6 +33,13 @@ export const themeConfig = {
     header: [
       // favicon
       ["link", { rel: "icon", href: "/favicon.ico" }],
+      [
+        "meta",
+        {
+          name:"msvalidate.01",
+          content:"BFEB5BF33AB4DC1743274D9CE1DCCCFD"
+        },
+      ],
       // RSS
       [
         "link",
@@ -40,7 +47,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog.imsyy.top/rss.xml",
+          href: "https://80yearoldboy.github.io/rss.xml",
         },
       ],
       // 预载 CDN
