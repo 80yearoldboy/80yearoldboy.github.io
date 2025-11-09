@@ -61,3 +61,20 @@
     "vue-slider-component": "4.1.0-beta.7"
   }
 }
+{
+  "name": "your-project",
+  "type": "module",
+  "scripts": {
+    "install-deps": "npm install chinese-lunar-calendar",
+    "prebuild": "npm run install-deps",
+    "build": "node build.mjs",
+    "dev": "npm run install-deps && node dev.mjs",
+    "update-calendar": "npm update chinese-lunar-calendar"
+  },
+  "dependencies": {
+    "chinese-lunar-calendar": "^1.0.0"
+  },
+  "devDependencies": {
+    "npm-check-updates": "^16.0.0"
+  }
+}
