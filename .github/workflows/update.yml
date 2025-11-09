@@ -1,0 +1,34 @@
+name: Update Dependencies
+
+on:
+  schedule:
+    # 每月第一天检查更新
+    - cron: '0 0 1 * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-deps:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        
+    - name: Update lunar calendar dependency
+      run: |
+        npx npm-check-updates --filter chinese-lunar-calendar --upgrade
+        npm install
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "chore: update lunar calendar dependency"
+        title: "Update Chinese Lunar Calendar Dependency"
+        body: "Automated update of chinese-lunar-calendar package"
+        branch: "update-dependencies"
