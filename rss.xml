@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sunnyboy的快乐老家</title>
+        <link>https://80yearoldboy.github.io</link>
+        <description>Able was I ere I saw OI.</description>
+        <lastBuildDate>Fri, 16 Jan 2026 12:24:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Sunnyboy</generator>
+        <language>zh</language>
+        <copyright>Copyright © 2020-present Sunnyboy</copyright>
+        <item>
+            <title><![CDATA[类欧几里得算法学习笔记1（f函数篇）]]></title>
+            <link>https://80yearoldboy.github.io/posts/2026/0103</link>
+            <guid>https://80yearoldboy.github.io/posts/2026/0103</guid>
+            <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[类欧几里得算法学习笔记1（f函数篇）]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[新年快乐！！！]]></title>
+            <link>https://80yearoldboy.github.io/posts/2026/0101</link>
+            <guid>https://80yearoldboy.github.io/posts/2026/0101</guid>
+            <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[新年快乐！！！]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于自己的第一篇洛谷题解]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/1228</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/1228</guid>
+            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[关于自己的第一篇洛谷题解]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于费马小定理]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/1220</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/1220</guid>
+            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[关于费马小定理]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[论如何科学的气死你的语文老师]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/1206</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/1206</guid>
+            <pubDate>Sat, 06 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[论如何科学的气死你的语文老师]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[CSP 2025 复赛游记]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/1109</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/1109</guid>
+            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSP 2025 复赛游记]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[CSP 2025 初赛游记]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/0926</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/0926</guid>
+            <pubDate>Fri, 26 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[CSP 2025 初赛游记]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[网站访客统计]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/0921</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/0921</guid>
+            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[网站访客统计]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[题解：P13393 File Fix-it]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/0920</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/0920</guid>
+            <pubDate>Sat, 20 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[题解：P13393 File Fix-it]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+        <item>
+            <title><![CDATA[B4210 [常州市赛 2022] 最早对决 题解]]></title>
+            <link>https://80yearoldboy.github.io/posts/2025/0915</link>
+            <guid>https://80yearoldboy.github.io/posts/2025/0915</guid>
+            <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[B4210 [常州市赛 2022] 最早对决]]></description>
+            <author>447376177@qq.com (Sunnyboy)</author>
+        </item>
+    </channel>
+</rss>
