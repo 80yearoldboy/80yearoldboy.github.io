@@ -309,7 +309,7 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "站点订阅", link: "https://80yearoldboy.git.io/rss.xml", newTab: true },
+          { text: "站点订阅", link: "https://80yearoldboy.github.io/rss.xml", newTab: true },
         ],
       },
     ],
